@@ -28,7 +28,7 @@ The command returns something like this, put this string inside `/etc/dovecot/us
 `user:{SHA512-CRYPT}$6$2TEJo6hStd3.NgQs$5nIeyUn/1bA4.dptvfsQ0wtU1XtnSqGRSkmn5bV5OcJRRAurmYxdaUcgOpEpQSLbHmKwhgRa9ik18TN6ckVuH0:1000:1000::/home/user`
 
 
-I will not cover SMTP here, but you can install `Exim4` ou `postfix` (MTA) and combine the use with `Dovecot` (MDA) if you like, there are many options out there.
+I will not cover SMTP here, but you can install `Exim4` or `postfix` (MTA) and combine the use with `Dovecot` (MDA) if you like, there are many options out there.
 
 
-That's All! Enjoy your new mailserver.
+That's All! Enjoy your new mail server.
